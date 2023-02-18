@@ -41,6 +41,6 @@ Q: Why do i have to run this as root?
 
 A: Unfortunatly you have to run the bot as root or the nmap command doesnt function properly and prompts you on the host machine to input your password.
 
-Q: Can anyone Execute Commands & Scan the host machine?
+Q: Can anyone Scan the host machine?
 
 A: NO! localhost/all ip ranges regarding the host machine are blocked.
