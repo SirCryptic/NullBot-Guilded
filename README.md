@@ -2,6 +2,8 @@
 
 NullBot Beta is a multi-purpose Guilded bot for system administrators and security enthusiasts. The bot is capable of executing commands through Guilded to perform various tasks, such as detecting the operating system and finding open ports on a host using Nmap, and scanning a web server for vulnerabilities using Nikto. Now includes a WHOIS command. This bot was developed by [SirCryptic](https://github.com/sircryptic) of [NullSecurityTeam](https://github.com/orgs/NULL-Security-Team), and is open-source under the [MIT license](https://github.com/SirCryptic/Nullbot-Guilded/blob/main/LICENSE).
 
+- Heres a [Discord Version](https://github.com/SirCryptic/NullBot-Reboot)
+
 # Changelog
 <details>
   <summary>Click to expand!</summary>
