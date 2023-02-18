@@ -6,6 +6,7 @@ NullBot Beta is a multi-purpose Guilded bot for system administrators and securi
 <details>
   <summary>Click to expand!</summary>
   - Added WHOIS
+  
   - Removed Role Check For Guilded Version
   </details>
 
